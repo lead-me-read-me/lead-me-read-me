@@ -7,7 +7,7 @@
 
 <span>
   
-  ![lead-me-read-me's github stats](https://github-readme-stats.vercel.app/api?username=lead-me-read-me&show_icons=true)
+  ![lead-me-read-me's github stats](https://github-readme-stats.vercel.app/api?username=lead-me-read-me&show_icons=false)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lead-me-read-me&layout=compact)
 
 </span>
