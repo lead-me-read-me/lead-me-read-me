@@ -12,7 +12,7 @@
 
 </span>
 
-### 안녕하세요!✋ 김승훈입니다. 저는 ... 무엇일까요? 💬
+### 안녕하세요!✋ 김승훈입니다. 저는 ... 💬
 
 <!--
 **lead-me-read-me/lead-me-read-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
