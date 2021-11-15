@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flead-me-read-me&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=lead-me-read-me&show_icons=true)
-[![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lead-me-read-me&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/lead-me-read-me)
+![lead-me-read-me's github stats](https://github-readme-stats.vercel.app/api?username=lead-me-read-me&show_icons=true)
+[![lead-me-read-me's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lead-me-read-me&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/lead-me-read-me)
 
 ### 안녕하세요!✋ 김승훈입니다. 저는 ... 무엇일까요? 💬
 
