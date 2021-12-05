@@ -1,10 +1,11 @@
 
-### 안녕하세요!✋ 김승훈입니다. 저는 ... 💬
+### 안녕하세요!✋ 김승훈입니다.  
 
 <div align="center">
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lead-me-read-me&layout=compact)
  
+</div>
 
 <!--
 **lead-me-read-me/lead-me-read-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
